@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/react-adresar/static/css/main.5dccb124.chunk.css",
-    "main.js": "/react-adresar/static/js/main.6a75cd81.chunk.js",
-    "main.js.map": "/react-adresar/static/js/main.6a75cd81.chunk.js.map",
-    "runtime-main.js": "/react-adresar/static/js/runtime-main.13cbe983.js",
-    "runtime-main.js.map": "/react-adresar/static/js/runtime-main.13cbe983.js.map",
-    "static/css/2.448a62fa.chunk.css": "/react-adresar/static/css/2.448a62fa.chunk.css",
-    "static/js/2.a2059b1f.chunk.js": "/react-adresar/static/js/2.a2059b1f.chunk.js",
-    "static/js/2.a2059b1f.chunk.js.map": "/react-adresar/static/js/2.a2059b1f.chunk.js.map",
-    "static/js/3.64a9de6f.chunk.js": "/react-adresar/static/js/3.64a9de6f.chunk.js",
-    "static/js/3.64a9de6f.chunk.js.map": "/react-adresar/static/js/3.64a9de6f.chunk.js.map",
-    "index.html": "/react-adresar/index.html",
-    "static/css/2.448a62fa.chunk.css.map": "/react-adresar/static/css/2.448a62fa.chunk.css.map",
-    "static/css/main.5dccb124.chunk.css.map": "/react-adresar/static/css/main.5dccb124.chunk.css.map",
-    "static/js/2.a2059b1f.chunk.js.LICENSE.txt": "/react-adresar/static/js/2.a2059b1f.chunk.js.LICENSE.txt",
-    "static/media/semantic.min.css": "/react-adresar/static/media/outline-icons.ddae9b1b.woff"
+    "main.css": "/adresar/static/css/main.5dccb124.chunk.css",
+    "main.js": "/adresar/static/js/main.081a4e7c.chunk.js",
+    "main.js.map": "/adresar/static/js/main.081a4e7c.chunk.js.map",
+    "runtime-main.js": "/adresar/static/js/runtime-main.034c3280.js",
+    "runtime-main.js.map": "/adresar/static/js/runtime-main.034c3280.js.map",
+    "static/css/2.41d79e76.chunk.css": "/adresar/static/css/2.41d79e76.chunk.css",
+    "static/js/2.017c1ffd.chunk.js": "/adresar/static/js/2.017c1ffd.chunk.js",
+    "static/js/2.017c1ffd.chunk.js.map": "/adresar/static/js/2.017c1ffd.chunk.js.map",
+    "static/js/3.64a9de6f.chunk.js": "/adresar/static/js/3.64a9de6f.chunk.js",
+    "static/js/3.64a9de6f.chunk.js.map": "/adresar/static/js/3.64a9de6f.chunk.js.map",
+    "index.html": "/adresar/index.html",
+    "static/css/2.41d79e76.chunk.css.map": "/adresar/static/css/2.41d79e76.chunk.css.map",
+    "static/css/main.5dccb124.chunk.css.map": "/adresar/static/css/main.5dccb124.chunk.css.map",
+    "static/js/2.017c1ffd.chunk.js.LICENSE.txt": "/adresar/static/js/2.017c1ffd.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/adresar/static/media/outline-icons.ddae9b1b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.13cbe983.js",
-    "static/css/2.448a62fa.chunk.css",
-    "static/js/2.a2059b1f.chunk.js",
+    "static/js/runtime-main.034c3280.js",
+    "static/css/2.41d79e76.chunk.css",
+    "static/js/2.017c1ffd.chunk.js",
     "static/css/main.5dccb124.chunk.css",
-    "static/js/main.6a75cd81.chunk.js"
+    "static/js/main.081a4e7c.chunk.js"
   ]
 }
