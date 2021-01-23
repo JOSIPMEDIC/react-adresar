@@ -1,0 +1,12 @@
+.icon-container {
+	display: flex;
+	justify-content: space-around;
+}
+
+.item select {
+	background-color: inherit;
+	border: none;
+	padding: 0 2em;
+	margin: 0;
+	width: 100%;
+}

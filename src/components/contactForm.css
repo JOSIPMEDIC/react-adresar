@@ -1,0 +1,21 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.contact-form {
+	padding: 3rem 5em;
+}
+
+.err-container {
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+	padding-right: 15rem;
+}
+
+button {
+	width: 70%;
+	color: whitesmoke;
+}
